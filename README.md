@@ -1,2 +1,2 @@
 # PythonCode
-Learn python include grammer and so on.
+1.Learn python grammer
